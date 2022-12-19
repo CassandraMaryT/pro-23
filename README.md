@@ -1,4 +1,4 @@
-ingredients 
+ingredients: 
 coco powder, sugar, milk, marshmellow 
 method 
 boil milk, add sugar, coco powder and bring it to a boil. pour it out in a mug, garnish it with marshmellows and serve hot.
